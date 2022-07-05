@@ -23,6 +23,9 @@ section {
 
 display: flex;
 
+margin-bottom: 200px;
+
+
 }
 
 .iw {
@@ -50,6 +53,7 @@ background-image:linear-gradient(orange tomato);
 padding: 10px 40px;
 color: white;
 font-size: larger;
+border-radius: 10%;
 
 
 }
@@ -57,5 +61,16 @@ font-size: larger;
 .top{
 
 background-image: url(images/top-banner.png);
+
+}
+
+
+.middle {
+
+background-image: url(images/dream-bg.png);
+
+background-repeat: no-repeat;
+background-position: right;
+
 
 }
