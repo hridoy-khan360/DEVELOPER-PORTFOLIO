@@ -13,7 +13,7 @@ body{
 
 }
 
-.world {
+.orange{
 
 color:orange ;
 
@@ -24,6 +24,8 @@ section {
 display: flex;
 
 margin-bottom: 200px;
+
+
 
 
 }
@@ -72,5 +74,51 @@ background-image: url(images/dream-bg.png);
 background-repeat: no-repeat;
 background-position: right;
 
+
+}
+
+
+.bottom {
+
+display: flex;
+width: 98%;
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+}
+
+
+.b1{
+
+width: 100%;
+box-shadow: 10px 10px 40px rgb(27, 26, 18);
+margin-right: 50px;
+margin-left: 50px;
+padding: 25px 20px;
+border-left: 7px solid orange;
+
+
+}
+
+.b2{
+
+width: 100%;
+box-shadow: 10px 10px 40px rgb(27, 26, 18);
+l
+margin-left: 50px;
+padding: 25px 20px;
+border-left: 7px solid blue;
+
+}
+
+.head {
+
+font-size:40px ;
+
+
+}
+
+footer p{
+
+text-align: center;
 
 }
